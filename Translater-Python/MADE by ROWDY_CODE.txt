@@ -1,0 +1,6 @@
+NEED-
+speech recognisition
+pyttsx
+goggletrans alpha version
+
+Made by Rowdy_Code
